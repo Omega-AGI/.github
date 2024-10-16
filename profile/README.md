@@ -1,5 +1,7 @@
 # We are continuing the original mission of OpenAI — nonprofit and open source for the benefit of society.
 
+Press release, 17.10.2024
+
 Artificial General Intelligence - where machines achieve universal cognitive abilities to understand, learn, and apply knowledge independently across an unlimited range of tasks - is humanity's greatest opportunity and challenge. Therefore, we believe that AGI should be established as a nonprofit, open source effort to serve all of humanity and democratize access to this transformative technology. OMEGA AGI embodies precisely this commitment.
 <br>
 <br>
