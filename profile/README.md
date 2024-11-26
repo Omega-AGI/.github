@@ -1,4 +1,4 @@
-# We are continuing the original mission of OpenAI — nonprofit and open source for the benefit of society.
+# We are continuing the original vision of OpenAI — nonprofit and open source for the benefit of society.
 
 Press release, 17.10.2024
 
