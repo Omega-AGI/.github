@@ -14,7 +14,7 @@ Having both founded and built research-based AI startups and led nonprofits for 
 Spread the word and follow, more details to come.
 <br>
 <br>
-André Bluhm & Max Hamscher
+Marie, Max & André
 <br>
 Initiators
 <br>
